@@ -14,8 +14,6 @@ Use a set to track numbers we have already seen.
 If the current number is already in the set, we found a duplicate.
 Otherwise, add it to the set and continue.
 
-Time complexity:   7 ms
-Space complexity:  31.14 MB
 ==================================================
 """
 
