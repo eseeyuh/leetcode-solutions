@@ -17,8 +17,6 @@ share the same sorted key. Use a defaultdict to map each key
 to a list of words. Append every word to its group, then
 return all groups as a list.
 
-Time complexity:   7 ms
-Space complexity:  22.15 MB
 ==================================================
 """
 

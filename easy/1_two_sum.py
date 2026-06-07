@@ -18,8 +18,6 @@ iterate. For each number, calculate the complement
 If it does, we found our pair. Otherwise, store the
 current number and continue.
 
-Time complexity:   3 ms
-Space complexity:  20.59 MB
 ==================================================
 """
 
