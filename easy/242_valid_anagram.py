@@ -12,9 +12,6 @@ Examples:
     s = "anagram", t = "nagaram" -> True
     s = "rat",     t = "car"     -> False
 
-Complexity:
-    Time:  7 ms
-    Space: 19.43 MB
 """
 
 from collections import Counter
