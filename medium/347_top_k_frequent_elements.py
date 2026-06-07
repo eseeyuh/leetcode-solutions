@@ -18,8 +18,6 @@ times. Since a number can appear at most len(nums) times,
 we need len(nums) + 1 buckets. Finally, iterate from the
 highest frequency down, collecting numbers until we have k.
 
-Time complexity:   15 ms
-Space complexity:  24.8 MB
 ==================================================
 """
 
