@@ -1,9 +1,8 @@
 """
-==================================================
+
 217. Contains Duplicate
 Difficulty: Easy
 Link: https://leetcode.com/problems/contains-duplicate/
-==================================================
 
 PROBLEM:
 Given an integer array nums, return True if any value
@@ -14,7 +13,6 @@ Use a set to track numbers we have already seen.
 If the current number is already in the set, we found a duplicate.
 Otherwise, add it to the set and continue.
 
-==================================================
 """
 
 from typing import List
