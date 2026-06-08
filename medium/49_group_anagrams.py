@@ -1,9 +1,8 @@
 """
-==================================================
+
 49. Group Anagrams
 Difficulty: Medium
 Link: https://leetcode.com/problems/group-anagrams/
-==================================================
 
 PROBLEM:
 Given an array of strings strs, group the anagrams together.
@@ -17,7 +16,6 @@ share the same sorted key. Use a defaultdict to map each key
 to a list of words. Append every word to its group, then
 return all groups as a list.
 
-==================================================
 """
 
 from collections import defaultdict
