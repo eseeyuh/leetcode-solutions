@@ -1,9 +1,8 @@
 """
-==================================================
+
 347. Top K Frequent Elements
 Difficulty: Medium
 Link: https://leetcode.com/problems/top-k-frequent-elements/
-==================================================
 
 PROBLEM:
 Given an integer array nums and an integer k, return the
@@ -18,7 +17,6 @@ times. Since a number can appear at most len(nums) times,
 we need len(nums) + 1 buckets. Finally, iterate from the
 highest frequency down, collecting numbers until we have k.
 
-==================================================
 """
 
 from typing import List
