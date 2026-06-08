@@ -1,9 +1,7 @@
 """
-==================================================
 1. Two Sum
 Difficulty: Easy
 Link: https://leetcode.com/problems/two-sum/
-==================================================
 
 PROBLEM:
 Given an array of integers nums and an integer target,
@@ -18,7 +16,6 @@ iterate. For each number, calculate the complement
 If it does, we found our pair. Otherwise, store the
 current number and continue.
 
-==================================================
 """
 
 from typing import List
